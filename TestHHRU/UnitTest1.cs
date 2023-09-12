@@ -4,7 +4,7 @@ namespace TestHHRU;
 
 public class UnitTest1
 {
-    Fact]
+    [Fact]
     public void CircleCalculateAreaTest()
     {
         var circle = new Circle { Radius = 5 };
